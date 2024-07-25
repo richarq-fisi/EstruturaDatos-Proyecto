@@ -18,7 +18,7 @@ El cliente podrá realizar la acción de:
 ### Almacenamiento de Datos
 - **Base de datos**: Los productos en el almacén se almacenarán en una base de datos relacional utilizando MySQL.
 
-> Más informaión sobre el proyecto: [informe.pdf](./informe.pdf)
+> Más informaión sobre el proyecto: [./public/informe.pdf](./informe.pdf)
 ----
 
 ## Compilación del programa
