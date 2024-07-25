@@ -1,0 +1,2 @@
+Fecha: 2022-06-23		Hora: 3:13:48 PM		Cliente: cliente1		Pago_Total: S/.20
+Fecha: 2022-06-23		Hora: 3:14:35 PM		Cliente: cliente2		Pago_Total: S/.23.47
